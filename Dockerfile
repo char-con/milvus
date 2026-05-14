@@ -1,1 +1,1 @@
-FROM milvusdb/milvus:v2.6.12
+FROM milvusdb/woodpecker:latest
