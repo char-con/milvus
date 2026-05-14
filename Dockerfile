@@ -1,1 +1,1 @@
-FROM milvusdb/milvus:v2.6.12
+FROM apachepulsar/pulsar:3.0.7
