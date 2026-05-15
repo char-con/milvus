@@ -1,1 +1,1 @@
-FROM minio/minio:RELEASE.2024-12-18T13-15-44Z
+FROM milvusdb/etcd:3.5.25-r1
