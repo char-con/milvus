@@ -1,1 +1,1 @@
-FROM milvusdb/milvus:v2.6.12
+FROM minio/minio:RELEASE.2024-12-18T13-15-44Z
